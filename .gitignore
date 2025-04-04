@@ -1,0 +1,51 @@
+# Ignore les dossiers contenant des images et des modèles
+/input_images/
+/models/
+
+# Fichiers d'images individuels
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+.*gif
+*.webp
+*.svg
+*.mp4
+*.avi
+
+# Modèles de machine learning
+*.tflite
+*.pb
+*.onnx
+*.h5
+
+# Fichiers temporaires ou d'exécution
+*.log
+*.out
+*.exe
+*.bin
+
+# CMake / build
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Fichiers générés par l’IDE
+*.vcxproj*
+*.sln
+*.user
+.idea/
+.vscode/
+
+# Python (si tu as des scripts pour tester)
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset (optionnel, si tu en utilises)
+dataset/
+*.json
