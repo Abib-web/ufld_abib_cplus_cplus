@@ -49,3 +49,5 @@ __pycache__/
 # Dataset (optionnel, si tu en utilises)
 dataset/
 *.json
+  
+  
