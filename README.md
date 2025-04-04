@@ -26,7 +26,7 @@ Le modèle utilisé est un réseau **UFLD** (Ultra Fast Lane Detection), export�
 Pour des raisons de taille/licence, le fichier n’est pas inclus dans ce dépôt.
 
 ### 📥 Télécharger le modèle :
-> [Lien Google Drive / HuggingFace / Autre à insérer ici]
+> [Lien Google Drive
 
 Placez le fichier dans le dossier :
 
