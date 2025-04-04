@@ -13,9 +13,11 @@ Ce projet implémente un système de détection de lignes routières en temps r�
 
 ## ⚙️ Dépendances
 
-- C++17
-- OpenCV
-- TensorFlow Lite
+- g++ version 9.4.0
+- flatc version 23.5.26
+- OpenCV 4.2.0
+- TensorFlow Lite v2.14.0
+- bazel 6.1.0
 - CMake (version ≥ 3.10)
 
 ## 🧠 Modèle
